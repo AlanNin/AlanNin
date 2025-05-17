@@ -19,7 +19,7 @@
         <h3 align="center">iNoted</h3>
         <p align="center">
           <a href="https://github.com/AlanNin/iNoted" target="_blank">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="100" alt="iNoted"/>
+            <img src="/inoted.png" width="100" alt="iNoted"/>
           </a>
         </p>
         <p align="center">
