@@ -6,8 +6,8 @@
   <p>Building immersive, interactive web experiences from the Dominican Republic 🇩🇴</p>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-alannin.dev-FFFFFF?style=for-the-badge&logo=safari&logoColor=white)](https://alannin.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alan--nin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nin-659017310/)
 [![Email](https://img.shields.io/badge/Email-alanbusinessnin@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbusinessnin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alan--nin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nin-659017310/)
 </div>
 
 ## 🚀 Featured Projects
