@@ -1,58 +1,82 @@
-## 👋 Hi there, I’m Alan Nin
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanNin&show_icons=true&theme=radical&count_private=true" alt="Alan Nin’s GitHub Stats" />
+</p>
 
-I’m a full‑stack developer and creative coder based in the Dominican Republic. I build immersive, interactive web experiences using cutting‑edge web technologies and user experience approaches.
-
----
-
-## 🚀 My Public Projects
-
-### [iNoted](https://github.com/AlanNin/iNoted) – Quick & Intuitive Note‑Taking App  
-iNoted is a mobile app designed for effortless note‑taking and organization, with all data stored locally for complete privacy. Create and manage notes in customizable notebooks, search quickly across your entries, and back up your data as needed :contentReference[oaicite:0]{index=0}.  
-**Tech:** React Native, TypeScript, Expo, Tailwind CSS, Drizzle
-
-### [Medelle](https://medelle.alannin.dev) – Desktop Patient Management App  
-Medelle is an Electron desktop application built with Vite and React that enables medical professionals to efficiently manage patients, appointments, and consultation records. It offers an intuitive UI, image storage via Cloudinary, and seamless CRUD operations over Axios :contentReference[oaicite:1]{index=1}.  
-**Tech:** Electron, Vite, React, Axios, Cloudinary
-
-### [UltimaTio](https://ultimatio-streaming-platform.vercel.app) – Multimedia Streaming Platform  
-UltimaTio is a web‑based platform for streaming movies, TV series, and more. Users can create profiles, track viewing progress, build playlists, and receive personalized recommendations across devices, all powered by a performant Next.js stack :contentReference[oaicite:2]{index=2}.  
-**Tech:** Next.js, Prisma (PostgreSQL), JWT, Redux, Vercel
-
-### [Bibliotech](https://bibliotech-web-app.vercel.app) – Online Bookstore  
-Bibliotech is a full‑featured e‑commerce site for discovering and purchasing books. It features a modern, responsive design, advanced search, secure authentication with Clerk, and a seamless shopping cart with invoice generation :contentReference[oaicite:3]{index=3}.  
-**Tech:** Next.js, Prisma (Vercel Postgres), Clerk, Vercel
-
-### [Spammy](https://spammy.vercel.app) – AI‑Powered Email Spam Detection  
-Spammy is a web app that leverages a custom machine learning model to classify email content as spam or not. It provides real‑time analysis, an intuitive interface, and session‑based processing to ensure user privacy :contentReference[oaicite:4]{index=4}.  
-**Tech:** Next.js, FastAPI, Python (scikit‑learn), Vercel, Render
+<h1 align="center">👋 Hi, I’m Alan Nin</h1>
+<p align="center">
+  <i>Full-stack Developer & Creative Coder</i><br>
+  Based in the Dominican Republic 🌴
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Featured Projects
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS  
-- **Frameworks & Libraries:** React, Next.js, Astro, React Native, Vue.js, Three.js, GSAP, Flutter  
-- **Backend & API:** Node.js (Express, NestJS), Python (FastAPI, Flask), C# (.NET), GraphQL, Prisma, MongoDB  
-- **DevOps & Hosting:** Docker, AWS, Vercel, Netlify, Git/GitHub  
-- **Other:** Webpack, Babel, REST, WebSockets, Figma, Tailwind CSS, Electron, Expo  
+<p align="center">
+  <a href="https://github.com/AlanNin/iNoted">
+    <img alt="iNoted" src="https://img.shields.io/badge/iNoted-Note%20App-blue?logo=react&style=for-the-badge" />
+  </a>
+  <a href="https://medelle.alannin.dev">
+    <img alt="Medelle" src="https://img.shields.io/badge/Medelle-Patient%20Mgmt-green?logo=electron&style=for-the-badge" />
+  </a>
+  <a href="https://ultimatio-streaming-platform.vercel.app">
+    <img alt="UltimaTio" src="https://img.shields.io/badge/UltimaTio-Streaming-purple?logo=next.js&style=for-the-badge" />
+  </a>
+  <a href="https://bibliotech-web-app.vercel.app">
+    <img alt="Bibliotech" src="https://img.shields.io/badge/Bibliotech-Bookstore-orange?logo=next.js&style=for-the-badge" />
+  </a>
+  <a href="https://spammy.vercel.app">
+    <img alt="Spammy" src="https://img.shields.io/badge/Spammy-AI%20Spam%20Detection-red?logo=python&style=for-the-badge" />
+  </a>
+</p>
+
+| Project       | Description                                                      | Tech Stack                                  |
+| ------------- | ---------------------------------------------------------------- | ------------------------------------------- |
+| **iNoted**    | Mobile note-taking app with local-first privacy                  | React Native · TypeScript · Expo · Tailwind |
+| **Medelle**   | Desktop EMR app for managing patients & appointments             | Electron · Vite · React · Cloudinary        |
+| **UltimaTio** | Cross-device multimedia streaming with personalized playlists    | Next.js · Prisma · JWT · Redux              |
+| **Bibliotech**| E-commerce bookstore with secure auth & invoice generation       | Next.js · Prisma · Clerk                    |
+| **Spammy**    | Real-time email spam classifier powered by custom ML             | Next.js · FastAPI · scikit-learn            |
 
 ---
 
-## 💡 What I’m Learning & Exploring
+## 🛠️ Tech & Tools
 
-- Advanced WebGL techniques & custom shaders  
-- Serverless architectures (AWS Lambda / Vercel Functions)  
-- WebXR and immersive experiences  
-- AI‑driven personalization and recommendation systems  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&style=flat-square" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&style=flat-square" />
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 💡 Currently Exploring
 
-- 🌐 Portfolio: https://alannin.dev  
-- ✉️ Email: alanbusinessnin@gmail.com  
-- 💼 LinkedIn: [in/alan-nin](https://www.linkedin.com/in/alan-nin-659017310/)  
+- **WebGL & Custom Shaders** – Crafting immersive 3D visuals  
+- **Serverless Architectures** – AWS Lambda & Vercel Functions  
+- **WebXR Experiences** – Building for AR/VR on the web  
+- **AI-Driven Personalization** – Recommendation systems in the browser  
 
 ---
 
-*Crafting the web, one pixel at a time.*  
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://alannin.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:alanbusinessnin@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/alan-nin-659017310/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<p align="center"><em>Crafting the web — one pixel at a time.</em></p>
