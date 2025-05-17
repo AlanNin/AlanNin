@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanNin&show_icons=true&theme=radical&count_private=true" alt="Alan Nin’s GitHub Stats" />
-</p>
 
 <h1 align="center">👋 Hi, I’m Alan Nin</h1>
 <p align="center">
