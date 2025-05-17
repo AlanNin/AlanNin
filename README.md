@@ -1,13 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World, I'm Alan Nin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7A311&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Creative+Coder;Experience+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D633FF&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Creative+Coder;Experience+Designer" alt="Typing SVG" />
   
   <p>Building immersive, interactive web experiences from the Dominican Republic 🇩🇴</p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-alannin.dev-F7A311?style=for-the-badge&logo=safari&logoColor=white)](https://alannin.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-alan--nin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nin-659017310/)
-  [![Email](https://img.shields.io/badge/Email-alanbusinessnin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbusinessnin@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-alannin.dev-D633FF?style=for-the-badge&logo=safari&logoColor=white)](https://alannin.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-alan--nin-D633FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nin-659017310/)
+  [![Email](https://img.shields.io/badge/Email-alanbusinessnin@gmail.com-D633FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbusinessnin@gmail.com)
 </div>
 
 ## 🚀 Featured Projects
@@ -19,7 +19,7 @@
       <h3 align="center">WithYou</h3>
       <p align="center">
         <a href="https://withyouapp.me" target="_blank">
-          <img src="/withyou.png" width="100" height="100" alt="WithYou" style="object-fit: contain;"/>
+          <img src="/withyou.png" width="80" height="80" alt="WithYou" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
@@ -36,7 +36,7 @@
       <h3 align="center">Medelle</h3>
       <p align="center">
         <a href="https://medelle.alannin.dev" target="_blank">
-          <img src="/medelle.png" width="100" height="100" alt="Medelle" style="object-fit: contain;"/>
+          <img src="/medelle.png" width="80" height="80" alt="Medelle" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
@@ -54,8 +54,8 @@
     <td width="50%" valign="top">
       <h3 align="center">iNoted</h3>
       <p align="center">
-        <a href="https://github.com/AlanNin/iNoted" target="_blank">
-          <img src="/inoted.png" width="100" height="100" alt="iNoted" style="object-fit: contain;"/>
+        <a href="https://inoted.alannin.dev" target="_blank">
+          <img src="/inoted.png" width="80" height="80" alt="iNoted" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
@@ -71,8 +71,8 @@
     <td width="50%" valign="top">
       <h3 align="center">UltimaTio</h3>
       <p align="center">
-        <a href="https://ultimatio-streaming-platform.vercel.app" target="_blank">
-          <img src="ultimatio.svg" width="100" height="100" alt="UltimaTio" style="object-fit: contain;"/>
+        <a href="https://ultimatio.alannin.dev" target="_blank">
+          <img src="ultimatio.svg" width="80" height="80" alt="UltimaTio" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
@@ -88,22 +88,6 @@
   </tr>
 </table>
 
-</div>
-
-<div align="center">
-  <h3>Spammy – AI-Powered Email Spam Detection</h3>
-  <p>
-    <a href="https://spammy.vercel.app" target="_blank">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" alt="Spammy"/>
-    </a>
-  </p>
-  <p>Web app leveraging a custom ML model to classify email content as spam or legitimate</p>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  </p>
 </div>
 
 ## 💻 Tech Stack
