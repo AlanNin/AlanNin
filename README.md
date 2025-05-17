@@ -16,6 +16,42 @@
   <table>
     <tr>
       <td width="50%" valign="top">
+        <h3 align="center">WithYou</h3>
+        <p align="center">
+          <a href="https://withyouapp.me" target="_blank">
+            <img src="/withyou.png" width="100" alt="WithYou"/>
+          </a>
+        </p>
+        <p align="center">
+         Platform that connects individuals with accessible psychological services
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Medelle</h3>
+        <p align="center">
+          <a href="https://medelle.alannin.dev" target="_blank">
+            <img src="/medelle.png" width="100" alt="Medelle"/>
+          </a>
+        </p>
+        <p align="center">
+          Desktop patient management solution for medical professionals
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
         <h3 align="center">iNoted</h3>
         <p align="center">
           <a href="https://github.com/AlanNin/iNoted" target="_blank">
@@ -32,30 +68,11 @@
           <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         </p>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Medelle</h3>
-        <p align="center">
-          <a href="https://medelle.alannin.dev" target="_blank">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" width="100" alt="Medelle"/>
-          </a>
-        </p>
-        <p align="center">
-          Desktop patient management solution for medical professionals
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
+            <td width="50%" valign="top">
         <h3 align="center">UltimaTio</h3>
         <p align="center">
           <a href="https://ultimatio-streaming-platform.vercel.app" target="_blank">
-            <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" width="100" alt="UltimaTio"/>
+            <img src="ultimatio.svg" width="100" alt="UltimaTio"/>
           </a>
         </p>
         <p align="center">
@@ -65,23 +82,6 @@
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
           <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Bibliotech</h3>
-        <p align="center">
-          <a href="https://bibliotech-web-app.vercel.app" target="_blank">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" alt="Bibliotech"/>
-          </a>
-        </p>
-        <p align="center">
-          Full-featured e-commerce bookstore with advanced search capabilities
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
         </p>
       </td>
