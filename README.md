@@ -14,79 +14,80 @@
 
 <div align="center">
   <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">WithYou</h3>
-        <p align="center">
-          <a href="https://withyouapp.me" target="_blank">
-            <img src="/withyou.png" width="100" alt="WithYou"/>
-          </a>
-        </p>
-        <p align="center">
-         Platform that connects individuals with accessible psychological services
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Medelle</h3>
-        <p align="center">
-          <a href="https://medelle.alannin.dev" target="_blank">
-            <img src="/medelle.png" width="100" alt="Medelle"/>
-          </a>
-        </p>
-        <p align="center">
-          Desktop patient management solution for medical professionals
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">iNoted</h3>
-        <p align="center">
-          <a href="https://github.com/AlanNin/iNoted" target="_blank">
-            <img src="/inoted.png" width="100" alt="iNoted"/>
-          </a>
-        </p>
-        <p align="center">
-          Quick & intuitive note-taking mobile app with local storage for complete privacy
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        </p>
-      </td>
-            <td width="50%" valign="top">
-        <h3 align="center">UltimaTio</h3>
-        <p align="center">
-          <a href="https://ultimatio-streaming-platform.vercel.app" target="_blank">
-            <img src="ultimatio.svg" width="100" alt="UltimaTio"/>
-          </a>
-        </p>
-        <p align="center">
-          Web-based multimedia streaming platform with personalized recommendations
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">WithYou</h3>
+      <p align="center">
+        <a href="https://withyouapp.me" target="_blank">
+          <img src="/withyou.png" width="100" height="100" alt="WithYou" style="object-fit: contain;"/>
+        </a>
+      </p>
+      <p align="center">
+        Online platform that connects individuals with accessible psychological services
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Medelle</h3>
+      <p align="center">
+        <a href="https://medelle.alannin.dev" target="_blank">
+          <img src="/medelle.png" width="100" height="100" alt="Medelle" style="object-fit: contain;"/>
+        </a>
+      </p>
+      <p align="center">
+        Desktop patient management solution for medical professionals
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">iNoted</h3>
+      <p align="center">
+        <a href="https://github.com/AlanNin/iNoted" target="_blank">
+          <img src="/inoted.png" width="100" height="100" alt="iNoted" style="object-fit: contain;"/>
+        </a>
+      </p>
+      <p align="center">
+        Quick & intuitive note-taking mobile app with local storage for complete privacy
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">UltimaTio</h3>
+      <p align="center">
+        <a href="https://ultimatio-streaming-platform.vercel.app" target="_blank">
+          <img src="ultimatio.svg" width="100" height="100" alt="UltimaTio" style="object-fit: contain;"/>
+        </a>
+      </p>
+      <p align="center">
+        Web-based multimedia streaming platform with personalized recommendations
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <div align="center">
