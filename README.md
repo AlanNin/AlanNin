@@ -109,7 +109,7 @@
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nodejs,express,nestjs,python,cs,docker,aws,mongodb,graphql,tailwind,threejs,figma,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nodejs,express,nestjs,python,cs,docker,aws,mongodb,tailwind,figma,git)](https://skillicons.dev)
   
   ### Languages
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -118,6 +118,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   
   ### Front-End
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -125,10 +126,9 @@
   ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
   ### Back-End
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -140,8 +140,10 @@
   ### Database & APIs
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Drizzle](https://img.shields.io/badge/Drizzle-2D3748?style=for-the-badge&logo=drizzle&logoColor=white)
   
   ### DevOps & Tools
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -157,25 +159,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanNin&show_icons=true&theme=radical" alt="Alan's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanNin&theme=radical" alt="Alan's GitHub Streak" />
-</div>
-
-## 🔍 Currently Exploring
-
-<div align="center">
-  <table>
-    <tr>
-      <td>✨ Advanced WebGL techniques & custom shaders</td>
-      <td>⚡ Serverless architectures (AWS Lambda / Vercel Functions)</td>
-    </tr>
-    <tr>
-      <td>🥽 WebXR and immersive experiences</td>
-      <td>🤖 AI-driven personalization and recommendation systems</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlanNin&color=blueviolet&style=for-the-badge" alt="profile views" />
 </div>
 
 ---
