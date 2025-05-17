@@ -19,7 +19,7 @@
       <h3 align="center">WithYou</h3>
       <p align="center">
         <a href="https://withyouapp.me" target="_blank">
-          <img src="/withyou.png" width="80" height="80" alt="WithYou" style="object-fit: contain;"/>
+          <img src="/withyou.png" width="auto" height="80" alt="WithYou" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
@@ -36,7 +36,7 @@
       <h3 align="center">Medelle</h3>
       <p align="center">
         <a href="https://medelle.alannin.dev" target="_blank">
-          <img src="/medelle.png" width="80" height="80" alt="Medelle" style="object-fit: contain;"/>
+          <img src="/medelle.png" width="auto" height="80" alt="Medelle" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
@@ -55,7 +55,7 @@
       <h3 align="center">iNoted</h3>
       <p align="center">
         <a href="https://inoted.alannin.dev" target="_blank">
-          <img src="/inoted.png" width="80" height="80" alt="iNoted" style="object-fit: contain;"/>
+          <img src="/inoted.png" width="auto" height="80" alt="iNoted" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
@@ -72,7 +72,7 @@
       <h3 align="center">UltimaTio</h3>
       <p align="center">
         <a href="https://ultimatio.alannin.dev" target="_blank">
-          <img src="ultimatio.svg" width="80" height="80" alt="UltimaTio" style="object-fit: contain;"/>
+          <img src="ultimatio.svg" width="auto" height="80" alt="UltimaTio" style="object-fit: contain;"/>
         </a>
       </p>
       <p align="center">
