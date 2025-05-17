@@ -1,13 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World, I'm Alan Nin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D633FF&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Creative+Coder;Experience+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Creative+Coder;Experience+Designer" alt="Typing SVG" />
   
   <p>Building immersive, interactive web experiences from the Dominican Republic 🇩🇴</p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-alannin.dev-D633FF?style=for-the-badge&logo=safari&logoColor=white)](https://alannin.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-alan--nin-D633FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nin-659017310/)
-  [![Email](https://img.shields.io/badge/Email-alanbusinessnin@gmail.com-D633FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbusinessnin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alannin.dev-FFFFFF?style=for-the-badge&logo=safari&logoColor=black)](https://alannin.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alan--nin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alan-nin-659017310/)
+[![Email](https://img.shields.io/badge/Email-alanbusinessnin@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:alanbusinessnin@gmail.com)
 </div>
 
 ## 🚀 Featured Projects
